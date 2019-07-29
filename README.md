@@ -11,8 +11,11 @@ We provide a simple interface for initial configurations and support:
 ## Prerequisites
 
 Install and configure OpenCV. For simplicity I recommend using this repo as a shortcut: https://github.com/jayrambhia/Install-OpenCV ;
+
 Install and configure MySQL (tested for version 14.14, Distrib 5.7.27);
+
 In the main.cpp file, modify lines 26-29 accordingly;
+
 Comment line 141 in main.cpp and replace it with the next one if you want to use a live video feed instead of a webcam.
 
 ## Installation
